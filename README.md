@@ -15,7 +15,7 @@ The back end is where the logic of your skill resides.
 
 ## Skill Guide
 
-Explore this Hello World skill in detail by reviewing our [user guide](https://github.com/daltonhuynh/ask-sdk-controls/blob/develop/doc/userGuide.md#3-exploring-the-helloworld-controls-skill).
+Explore this Hello World skill in detail by reviewing our [user guide](https://github.com/alexa/ask-sdk-controls/blob/develop/doc/userGuide.md#3-exploring-the-helloworld-controls-skill).
 
 ---
 
